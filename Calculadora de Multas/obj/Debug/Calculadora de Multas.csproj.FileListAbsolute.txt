@@ -1,0 +1,10 @@
+C:\Users\Recepcion\source\repos\Calculadora de Multas\Calculadora de Multas\bin\Debug\Calculadora de Multas.exe.config
+C:\Users\Recepcion\source\repos\Calculadora de Multas\Calculadora de Multas\bin\Debug\Calculadora de Multas.exe
+C:\Users\Recepcion\source\repos\Calculadora de Multas\Calculadora de Multas\bin\Debug\Calculadora de Multas.pdb
+C:\Users\Recepcion\source\repos\Calculadora de Multas\Calculadora de Multas\obj\Debug\Calculadora de Multas.csprojAssemblyReference.cache
+C:\Users\Recepcion\source\repos\Calculadora de Multas\Calculadora de Multas\obj\Debug\Calculadora_de_Multas.Properties.Resources.resources
+C:\Users\Recepcion\source\repos\Calculadora de Multas\Calculadora de Multas\obj\Debug\Calculadora de Multas.csproj.GenerateResource.cache
+C:\Users\Recepcion\source\repos\Calculadora de Multas\Calculadora de Multas\obj\Debug\Calculadora de Multas.csproj.CoreCompileInputs.cache
+C:\Users\Recepcion\source\repos\Calculadora de Multas\Calculadora de Multas\obj\Debug\Calculadora de Multas.exe
+C:\Users\Recepcion\source\repos\Calculadora de Multas\Calculadora de Multas\obj\Debug\Calculadora de Multas.pdb
+C:\Users\Recepcion\source\repos\Calculadora de Multas\Calculadora de Multas\obj\Debug\Calculadora_de_Multas.Form1.resources
